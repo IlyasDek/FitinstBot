@@ -15,6 +15,7 @@ cd FitInstBot
 pip install -r requirements.txt
 
 Usage
+
 1.Paste your Telegram bot token into the code of the bot.py file
 
 2.Start the bot:
