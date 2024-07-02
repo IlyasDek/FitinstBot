@@ -1,0 +1,23 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# PyCharm
+.idea/
+
+# Database
+database/database.db
+
+# Token
+token.txt
+
+# Utils directory (если нужно)
+utils/
